@@ -45,8 +45,9 @@ public class OpenAPIUtils {
 	 * FTE 环境为：https://open.fsfte2.com
 	 * PRODUCE 环境为：https://open.fxiaoke.com
 	 */
-	private static String prefix = "https://open.fxiaoke.com";
-	
+//	private static String prefix = "https://open.fxiaoke.com";
+	private static String prefix = "https://open.fsfte2.com";
+
 	/**
 	 * google json 解析器
 	 */
